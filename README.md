@@ -3,7 +3,7 @@
 </h1>
 
 <h4 align="center"> 
-	🚧 Aplicativo mobile para agendamento de barbeiros e adaptável para autônomos de modo geral... 🚧
+	🚧 Aplicativo mobile para agendamento de barbeiros e adaptável para autônomos de modo gerl.. 🚧
 </h4>
 
 <p align="center">
